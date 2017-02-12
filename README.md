@@ -28,5 +28,5 @@ The following acoustic properties of each voice are measured and included within
     modindx: modulation index. Calculated as the accumulated absolute difference between adjacent measurements of fundamental frequencies divided by the frequency range
     label: male or female
 
-Achieved 0.94 accuracy via Neural Network.
+Achieved 0.97 accuracy via Neural Network.
 
