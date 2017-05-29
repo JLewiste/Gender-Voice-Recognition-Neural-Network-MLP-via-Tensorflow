@@ -1,4 +1,4 @@
-# Gender-Voice-Recognition-Neural-Network-MLP-via-Tensorflow
+# Gender voice recognition neural network MLP via Tensorflow
 
 ![Pictures](Pictures/gender_voice.png)
 
